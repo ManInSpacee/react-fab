@@ -2,17 +2,45 @@
   "technologies": [
     {
       "title": "Git Basics",
-      "description": "Команды git add/commit/push",
+      "description": "Команды git add/commit/push и работа с ветками",
       "status": "not-started",
       "notes": "",
       "category": "tools"
     },
     {
       "title": "REST API",
-      "description": "Методы GET/POST/PUT/DELETE",
+      "description": "Методы GET/POST/PUT/DELETE и код ответа",
       "status": "not-started",
       "notes": "",
       "category": "backend"
+    },
+    {
+      "title": "React Router",
+      "description": "Маршруты, параметры и навигация",
+      "status": "not-started",
+      "notes": "",
+      "category": "frontend"
+    },
+    {
+      "title": "TypeScript Basics",
+      "description": "Типы, интерфейсы, generics",
+      "status": "not-started",
+      "notes": "",
+      "category": "language"
+    },
+    {
+      "title": "Docker Intro",
+      "description": "Dockerfile, образы и контейнеры",
+      "status": "not-started",
+      "notes": "",
+      "category": "devops"
+    },
+    {
+      "title": "CI/CD Basics",
+      "description": "Сборка, тесты и деплой в pipeline",
+      "status": "not-started",
+      "notes": "",
+      "category": "devops"
     }
   ]
 }
