@@ -1,0 +1,19 @@
+{
+  "technologies": [
+    {
+      "title": "Git Basics",
+      "description": "Команды git add/commit/push",
+      "status": "not-started",
+      "notes": "",
+      "category": "tools"
+    },
+    {
+      "title": "REST API",
+      "description": "Методы GET/POST/PUT/DELETE",
+      "status": "not-started",
+      "notes": "",
+      "category": "backend"
+    }
+  ]
+}
+
